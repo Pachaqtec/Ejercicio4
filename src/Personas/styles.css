@@ -1,0 +1,21 @@
+
+.container__person{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 0 auto;
+    width: 900px;
+    padding-bottom: 40px;
+}
+.contenido__person{
+    background-color: blanchedalmond;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    width: 250px;
+    margin-top: 40px;
+}
+.container__person img{
+    border-radius: 50%;
+}

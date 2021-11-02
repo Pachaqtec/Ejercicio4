@@ -1,0 +1,23 @@
+
+.App{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 1200px;
+  margin: 0 auto;
+}
+.navegacion{
+  width: 200px;
+}
+.navegacion ul{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.navegacion ul li a{
+  color: black;
+  text-decoration: none;
+}
+.navegacion ul li {
+  list-style: none;
+}
